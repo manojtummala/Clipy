@@ -1,0 +1,9 @@
+{
+  "rules": {
+    	"data" :{
+        ".read": true, 
+        ".write": true,
+        ".indexOn" : "text"
+      }
+  }
+}
