@@ -1,6 +1,6 @@
 # Clipy
 
-### Have you ever wonderd how it would be to just copy on one device and then paste it directly onto another...!
+### Have you ever wondered how it would be, to just copy on one device and then paste it directly onto another...!
 
 *Well only a very few operating systems have this feature and only a few applications are there to support the connection between your phone and pc*
 
